@@ -6,6 +6,7 @@ short-description: BlocChat is an application that sends and receives messages i
 ---
 
 {:.center}
+![]({{ site.base_url }}/img/blocflix.png )
 
 
 ## Explanation
